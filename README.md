@@ -6,6 +6,8 @@
 알고리즘 분류: 위에 해당하지않는 문제의 알고리즘별 문제
 
 ---
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepper_mis)](https://solved.ac/pepper_mis)
 
 백준 프로필: https://www.acmicpc.net/user/pepper_mis <br>
 solved.ac 프로필: https://solved.ac/profile/pepper_mis
