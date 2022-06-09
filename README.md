@@ -61,6 +61,7 @@ soved.ac의 [CLASS별 문제](https://solved.ac/class)<br>
 - [동적 계획법 4 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%204%20%EB%8B%A8%EA%B3%84.ipynb): 1509 <br>
 - [이분 매칭 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%EB%A7%A4%EC%B9%AD%20%EB%8B%A8%EA%B3%84.ipynb): 11375, 11376, 1017, 1671, 1867 <br>
 - [네트워크 플로우 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EB%8B%A8%EA%B3%84.ipynb): 17412 <br>
+- [문자열 알고리즘 2 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%202%20%EB%8B%A8%EA%B3%84.ipynb): 13275 <br>
 
 
 ### [알고리즘 분류](https://github.com/black-pepper/baekjoon/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98)
@@ -79,7 +80,7 @@ soved.ac의 [CLASS별 문제](https://solved.ac/class)<br>
 - [위상정렬](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC.ipynb): 1516, 14567, 2637, 9470, 2611, 14676, 21276
 - [이분 매칭](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%9D%B4%EB%B6%84%20%EB%A7%A4%EC%B9%AD.ipynb): 2188, 11377, 1298, 11378, 2414, 1760, 9525
 - [이분 탐색](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89.ipynb): 2352, 2512, 12738, 1365, 2568, 3745, 1072
-- [자료 구조](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.ipynb): 2504, 10799, 1158, 2493, 1406, 5397, 1935, 2075, 1725, 11003, 24523, 11652, 7785, 3986
+- [자료 구조](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.ipynb): 2504, 10799, 1158, 2493, 1406, 5397, 1935, 2075, 1725, 11003, 24523, 11652, 7785, 3986, 16161
 - [정렬](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%A0%95%EB%A0%AC.ipynb): 10825, 10867, 2822, 1449
 - [최단 경로](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.ipynb): 1261, 1238, 13549, 4485, 11403, 1506, 18352, 2211, 2665, 2458
 - [최소 공통 조상](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%B5%9C%EC%86%8C%20%EA%B3%B5%ED%86%B5%20%EC%A1%B0%EC%83%81.ipynb): 2233, 8012
