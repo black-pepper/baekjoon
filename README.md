@@ -61,7 +61,7 @@ soved.ac의 [CLASS별 문제](https://solved.ac/class)<br>
 - [동적 계획법 4 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%204%20%EB%8B%A8%EA%B3%84.ipynb): 1509 <br>
 - [이분 매칭 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EC%9D%B4%EB%B6%84%20%EB%A7%A4%EC%B9%AD%20%EB%8B%A8%EA%B3%84.ipynb): 11375, 11376, 1017, 1671, 1867, 11014  <br>
 - [네트워크 플로우 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EB%8B%A8%EA%B3%84.ipynb): 17412 <br>
-- [문자열 알고리즘 2 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%202%20%EB%8B%A8%EA%B3%84.ipynb): 13275, 16163, 11046 <br>
+- [문자열 알고리즘 2 단계](https://github.com/black-pepper/baekjoon/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%202%20%EB%8B%A8%EA%B3%84.ipynb): 13275, 16163, 11046, 13713, 16229 <br>
 
 
 ### [알고리즘 분류](https://github.com/black-pepper/baekjoon/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98)
