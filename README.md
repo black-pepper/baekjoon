@@ -83,7 +83,7 @@ soved.ac의 [CLASS별 문제](https://solved.ac/class)<br>
 - [이분 탐색](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89.ipynb): 2352, 2512, 12738, 1365, 2568, 3745, 1072
 - [자료 구조](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.ipynb): 2504, 10799, 1158, 2493, 1406, 5397, 1935, 2075, 1725, 11003, 24523, 11652, 7785, 3986, 16161, 2161
 - [정렬](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%A0%95%EB%A0%AC.ipynb): 10825, 10867, 2822, 1449, 1431, 8979, 11931
-- [최단 경로](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.ipynb): 1261, 1238, 13549, 4485, 11403, 1506, 18352, 2211, 2665, 2458, 10159
+- [최단 경로](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.ipynb): 1261, 1238, 13549, 4485, 11403, 1506, 18352, 2211, 2665, 2458, 10159, 1613
 - [최대 유량](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%B5%9C%EB%8C%80%20%EC%9C%A0%EB%9F%89.ipynb): 6086, 2316
 - [최소 공통 조상](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%EC%B5%9C%EC%86%8C%20%EA%B3%B5%ED%86%B5%20%EC%A1%B0%EC%83%81.ipynb): 2233, 8012
 - [트리](https://github.com/black-pepper/baekjoon/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B6%84%EB%A5%98/%ED%8A%B8%EB%A6%AC.ipynb): 4256, 1068, 2250, 11812
